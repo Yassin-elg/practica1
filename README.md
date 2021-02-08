@@ -1,2 +1,2 @@
 # practica1
-Repositorio para la pra´ctica 1 de MGCSS
+Repositorio para la práctica 1 de MGCSS
